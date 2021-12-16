@@ -1,1 +1,1 @@
-# bluebikes_analysis_sql
+The goal of this analysis is to help bluebikes managers to understand the customer's demographic and make data-driven decision to reach more audience for their marketing campaigns and turn more customers into subscribers
